@@ -14,9 +14,7 @@ tags:
 技术博客。本博客的技术以C/C++为核心的LINUX开发为主，由于博主
 技术水平有限，所发之文如有不妥之处，请网友们指出。
 
-<div align=center>
-<img src="http://i4.piimg.com/3c651a1b2538606f.jpg" style="width: 60%; height: 60%"/>
-</div>
+<img src="http://i4.piimg.com/3c651a1b2538606f.jpg" style="width: 60%; height: 60%" align="center"/>
 
 ```cpp
 	#include <iostream>  

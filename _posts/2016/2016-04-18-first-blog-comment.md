@@ -16,3 +16,13 @@ tags:
 
 #
 <img src="http://i4.piimg.com/3c651a1b2538606f.jpg" style="width: 50%; height: 50%"/>
+
+```cpp
+	#include <iostream>  
+	using namespace std;
+	int main()
+	{
+		cout<<"HELLO WORLD!"<<endl;
+		return 0;
+	}
+```
